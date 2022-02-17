@@ -1,2 +1,2 @@
-# repo-resolusi
+# repo-materi bahan ajar
 repository contoh
